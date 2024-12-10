@@ -90,6 +90,9 @@ const Login = () => {
 
                 <button type="submit">Iniciar Sesión</button>
             </form>
+            <footer>
+                2024 Interivalle. Todos los derechos reservados
+            </footer>
         </div>
     );
 };

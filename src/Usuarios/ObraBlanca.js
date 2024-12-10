@@ -190,6 +190,9 @@ const ObraBlanca = () => {
                 <button type="button" onClick={() => navigate('/madera')}>Medidas Madera</button>
             </form>
             {errores.mensaje && <p>{errores.mensaje}</p>}
+            <footer>
+                2024 Interivalle. Todos los derechos reservados
+            </footer>
         </div>
     );
 };

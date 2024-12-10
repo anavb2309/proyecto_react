@@ -151,6 +151,9 @@ const Madera = () => {
                 <button type="submit">Cotizar</button>
             </form>
             {errores.mensaje && <p>{errores.mensaje}</p>}
+            <footer>
+                2024 Interivalle. Todos los derechos reservados
+            </footer>
         </div>
     );
 };

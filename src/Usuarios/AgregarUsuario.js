@@ -180,7 +180,7 @@ const AgregarUsuario = () => {
 
             </form>
             <footer>
-                2024 Interivalle. Todos los derechos reservados.
+                2024 Interivalle. Todos los derechos reservados
             </footer>
         </div>
     );
