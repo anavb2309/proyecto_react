@@ -3,6 +3,7 @@ import axios from 'axios';
 import logo from '../imagenes/Logo_interivalle.jpg';
 import { useNavigate } from 'react-router-dom';
 
+//Cotizador interivalle
 
 const AgregarUsuario = () => {
     // Estado para los campos del formulario

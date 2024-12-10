@@ -2,6 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import logo from '../imagenes/Logo_interivalle.jpg'; 
 
+//Cotizador interivalle
 const Home = () => {
     const navigate = useNavigate();
 

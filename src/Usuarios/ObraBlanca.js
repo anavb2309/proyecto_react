@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 
+//Cotizador interivalle
+
 const ObraBlanca = () => {
     // Estado para cada campo del formulario
     const [formData, setFormData] = useState({
